@@ -1,2 +1,2 @@
-# PowerBI_Sales_Analysis
+                                # PowerBI_Sales_Analysis
 ![store img](globalstore.jpg)
