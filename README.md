@@ -1,5 +1,5 @@
-<div align="center">
-# PowerBI Sales Analysis Of An Online Global Store
+# <div align="center">
+PowerBI Sales Analysis Of An Online Global Store
 </div>
                                
 <p align="center">
