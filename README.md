@@ -1,7 +1,7 @@
 <h1 align="center">PowerBI Sales Analysis Of An Online Global Store</h1>
 
 <div align="center">
-<img src="globalstore.jpg"  width="400" height="400"  >
+<img src="globalstore.jpg"  width="400" height="400" />
 </div>
                                
 <p align="center">
