@@ -1,4 +1,4 @@
-<table><tr><td> <p align="center"> PowerBI Sales Analysis Of An Online Global Store</p></td></tr></table>
+<h2 align="center"> PowerBI Sales Analysis Of An Online Global Store</h2>
 
 
 <div align="center">
