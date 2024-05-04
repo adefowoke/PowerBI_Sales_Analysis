@@ -15,11 +15,13 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
 <summary>Tasks</summary>
   
 1. Load data from the provided data sources (excel workbooks):
-  
- - load both the Date_table and the Super_Store_Sales data into PowerBi by clicking on the 'Get Data' tab and selecting Excel, locate where these data are, and load
+ - load both  Date_table and  Super_Store_Sales data into PowerBi by clicking on the 'Get Data' tab and selecting Excel, locate where these data are, and load
+   
 2. Perform the required data transformations in the Power Query Editor window:
  - When the sales data is loaded, select all three tables ( Orders, People, Returns):
    * promote the first row as the header for each table
+   * Ensure the data types for each column are appropriate
+ - It is good practice to rename applied steps appropriately for future reference
 
 3. Create the relationships between the loaded tables.
 
