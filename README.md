@@ -1,6 +1,6 @@
-# <div align="center">
+<div align="center">
 PowerBI Sales Analysis Of An Online Global Store
-</div>
+# </div>
                                
 <p align="center">
 <img src="globalstore.jpg" width="400" height="400" />
