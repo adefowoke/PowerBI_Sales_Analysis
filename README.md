@@ -1,12 +1,12 @@
 <h1 align="center">PowerBI Sales Analysis Of An Online Global Store</h1>
+***
+---
+<hr/>
 
 <div align="center">
 <img src="globalstore.jpg"  width="400" height="400" />
 </div>
-                               
-<p align="center">
-<img src="globalstore.jpg" width="400" height="400" />
-</p>
+                            
 <details>
 <summary>Problem Statement</summary>
 Global Super Store is an online supergiant store that has worldwide operations. This store takes orders and delivers products across the globe and deals with all the major product categories like furniture, office supplies and technology, and so on.
