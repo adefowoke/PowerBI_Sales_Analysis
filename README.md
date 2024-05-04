@@ -13,6 +13,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
 
 <details>
 <summary>Tasks</summary>
+  
 1. Load data from the provided data sources (excel workbooks):
   
  - load both the Date_table and the Super_Store_Sales data into PowerBi by clicking on the 'Get Data' tab and selecting Excel, locate where these data are, and load
