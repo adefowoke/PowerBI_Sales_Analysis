@@ -1,4 +1,5 @@
-<h2 align="center">PowerBI Sales Analysis Of An Online Global Store</h1><hr/>
+<table><tr><td><h2 align="center">PowerBI Sales Analysis Of An Online Global Store</h2></td></tr></table>
+
 
 <div align="center">
 <img src="globalstore.jpg"  width="400" height="400" />
