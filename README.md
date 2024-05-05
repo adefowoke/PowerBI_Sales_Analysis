@@ -23,13 +23,15 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
    * Ensure the data types for each column are appropriate
  - It is good practice to rename each applied step appropriately for future reference
 
-3. Create the relationships between the loaded tables.
+3. Create the relationships between the loaded tables:
+ - Once the transformation is done and loaded, go to the model view to see all the tables.
+ - Powerbi might autodetect the relationship between these models.
 
-4. Create the required measures for key performance indicators like Sales, Profit, and Ratio.
+5. Create the required measures for key performance indicators like Sales, Profit, and Ratio.
 
-5. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
+6. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
 
-6. Train the Q&A data model for the below synonyms: 
+7. Train the Q&A data model for the below synonyms: 
 
 - Revenue: Sales 
 
