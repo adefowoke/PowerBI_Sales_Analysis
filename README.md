@@ -28,6 +28,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
  - Powerbi might autodetect the relationship between these models, these autodetected relationships between tables might be correct, and other times it might be wrong. This is why it is good practice to always 
    confirm the relationships autodetected by PowerBi.
  - For this project, the relationship autodetected between Returns and People is incorrect, so delete.
+ - Drag and drop the 'order date' from the Orders table to the 'Date' in the Date table.
 
 5. Create the required measures for key performance indicators like Sales, Profit, and Ratio.
 
