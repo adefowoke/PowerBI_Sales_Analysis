@@ -29,6 +29,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
    confirm the relationships autodetected by PowerBi.
  - For this project, the relationship autodetected between Returns and People is incorrect, so delete.
  - Drag and drop the 'order date' from the Orders table to the 'Date' in the Date table.
+ - Drag and drop the 'Order ID' in the Returns table to the 'Order ID' in the Orders table
 
 5. Create the required measures for key performance indicators like Sales, Profit, and Ratio.
 
