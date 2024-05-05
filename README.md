@@ -27,18 +27,21 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
  - Once the transformation is done and loaded, go to the model view to see all the tables.
  - Powerbi might autodetect the relationship between these models, these autodetected relationships between tables might be correct, and other times it might be wrong. This is why it is good practice to always 
    confirm the relationships autodetected by PowerBi.
- - The Orders table is the fact table, the People and Returns table are the dimensions table, and the Date Table is marked as date.
+ - The Orders table is the fact table, the People and Returns table is the dimensions table, and the Date Table is marked as date.
  - To mark the Date Table as the default date, right-click on it, then select "mark as date table' from the selection.
  - The relationship autodetected between Returns and People is incorrect, so delete.
  - Drag and drop the 'Order Date' from the Orders table to the 'Date' in the Date table.
  - Drag and drop the 'Order ID' in the Returns table to the 'Order ID' in the Orders table.
  - drag and drop the 'Region' from the People table to the Orders table.
 
-5. Create the required measures for key performance indicators like Sales, Profit, and Ratio.
+5. Create the required measures for key performance indicators like Sales, Profit, and Ratio:
+ - It is better to keep these measures grouped in a different table. To create this new table, click on 'Enter Data' from the toolbar, and rename it , for this project, it would be renamed as 'Created Measures'
+ - The first measure is 'Total Sales'
+ - Total Sales
 
-6. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
+7. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
 
-7. Train the Q&A data model for the below synonyms: 
+8. Train the Q&A data model for the below synonyms: 
 
 - Revenue: Sales 
 
