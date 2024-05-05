@@ -27,13 +27,12 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
  - Once the transformation is done and loaded, go to the model view to see all the tables.
  - Powerbi might autodetect the relationship between these models, these autodetected relationships between tables might be correct, and other times it might be wrong. This is why it is good practice to always 
    confirm the relationships autodetected by PowerBi.
- - For this project, the relationship autodetected between Returns and People is incorrect, so delete.
- - The Orders table is the fact table, the People and Returns table is the dimension table, and the Date Table is marked as date.
- - To mark the Date Table as the default, right-click on it, then select "mark as date table' from the selection.
+ - The Orders table is the fact table, the People and Returns table are the dimensions table, and the Date Table is marked as date.
+ - To mark the Date Table as the default date, right-click on it, then select "mark as date table' from the selection.
+ - The relationship autodetected between Returns and People is incorrect, so delete.
  - Drag and drop the 'Order Date' from the Orders table to the 'Date' in the Date table.
  - Drag and drop the 'Order ID' in the Returns table to the 'Order ID' in the Orders table.
  - drag and drop the 'Region' from the People table to the Orders table.
- - 
 
 5. Create the required measures for key performance indicators like Sales, Profit, and Ratio.
 
