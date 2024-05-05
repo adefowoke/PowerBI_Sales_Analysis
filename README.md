@@ -40,6 +40,8 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
    table from the drop-down.
  - The measures created are as follows:
     - Total Sales = qty * price :  Total Sales = SUM(Orders[Quantity]) * SUM(Orders[Unit Price])
+    - Total Profit = SUM(Orders[Profit])
+    - Profit Ratio = Total Profit/ Total Sales : DIVIDE([Total Profit],[Total Sales],0)
 
 7. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
 
