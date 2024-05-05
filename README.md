@@ -35,9 +35,9 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
  - drag and drop the 'Region' from the People table to the Orders table.
 
 5. Create the required measures for key performance indicators like Sales, Profit, and Ratio:
- - It is better to keep these measures grouped in a different table. To create this new table, click on 'Enter Data' from the toolbar, and rename it , for this project, it would be renamed as 'Created Measures'
- - The first measure is 'Total Sales'
- - Total Sales
+ - It is better to keep these measures grouped in a different table. To create this new table, click on 'Enter Data' from the toolbar, and rename it, for this project, it would be named as 'Created Measures'.
+ - The measures created are as follows:
+    - Total Sales = qty * price
 
 7. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
 
