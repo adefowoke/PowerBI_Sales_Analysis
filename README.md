@@ -34,7 +34,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
  - Drag and drop the 'Order ID' in the Returns table to the 'Order ID' in the Orders table.
  - drag and drop the 'Region' from the People table to the Orders table.
 
-5. Create the required measures for key performance indicators like Sales, Profit, and Ratio:
+4. Create the required measures for key performance indicators like Sales, Profit, and Ratio:
  - It is better to keep these measures grouped in a different table. To create this new table, click on 'Enter Data' from the toolbar, and rename it, for this project, it would be named as 'Created Measures'.
  - After Creating the measures, you can move them to the new table by going to the report view, and clicking on the measure to move, under the ' Measures Tool' tab. There is the 'Home table', select the preferred 
    table from the drop-down.
@@ -43,10 +43,12 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
     - Total Profit = SUM(Orders[Profit])
     - Profit Ratio (Total Profit/ Total Sales ) = DIVIDE([Total Profit],[Total Sales],0)
     - Report As Of Date = "Report As Of Date :"& MAX(Orders[Order Date])
+    - If there is a column called 'column 1' in the created measures table, delete it.
 
-7. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
+5. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
+   - to start creating the visuals , click on the insert ab, select the rectangle in the shapes, drag it till the covers the whole canvas.
 
-8. Train the Q&A data model for the below synonyms: 
+7. Train the Q&A data model for the below synonyms: 
 
 - Revenue: Sales 
 
