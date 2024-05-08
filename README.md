@@ -36,7 +36,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
 
 4. Create the required measures for key performance indicators like Sales, Profit, and Ratio:
  - It is better to keep these measures grouped in a different table. To create this new table, click on 'Enter Data' from the toolbar, and rename it, for this project, it would be named as 'Created Measures'.
- - After Creating the measures, you can move them to the new table by going to the report view, and clicking on the measure to move, under the ' Measures Tool' tab. There is the 'Home table', select the preferred 
+ - After Creating the measures, you can move them to the new table by going to the report view and clicking on the measure to move, under the ' Measures Tool' tab. There is the 'Home table', select the preferred 
    table from the drop-down.
  - The measures created are as follows:
     - Total Sales (qty * price) = SUM(Orders[Quantity]) * SUM(Orders[Unit Price])
@@ -46,7 +46,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
     - If there is a column called 'column 1' in the created measures table, delete it.
 
 5. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
-   - to start creating the visuals , click on the insert ab, select the rectangle in the shapes, drag it till the covers the whole canvas.
+   - to start creating the visuals, click on the insert ab, select the rectangle in the shapes, and drag it till the covers the whole canvas.
 
 7. Train the Q&A data model for the below synonyms: 
 
