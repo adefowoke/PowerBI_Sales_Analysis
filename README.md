@@ -44,6 +44,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
     - Profit Ratio (Total Profit/ Total Sales ) = DIVIDE([Total Profit],[Total Sales],0)
     - Report As Of Date = "Report As Of Date :"& MAX(Orders[Order Date])
     - If there is a column called 'column 1' in the created measures table, delete it.
+5. Create the relationship between the models
 
 5. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
    - to start creating the visuals, click on the insert ab, select the rectangle in the shapes, and drag it till the covers the whole canvas.
