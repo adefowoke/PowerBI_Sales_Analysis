@@ -58,7 +58,7 @@ As a Sales Manager of this store, you want to analyze the sales of the products 
 
 7. Managers should have restricted data access as per their market allocation by the organization. (Implement RLS)
 
-8.Publish a report in the Power BI Service and share it with other users of the same market role.
+8. Publish a report in the Power BI Service and share it with other users of the same market role.
 </details>
 
 <details>
